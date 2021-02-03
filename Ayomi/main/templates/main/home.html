@@ -1,0 +1,14 @@
+{% extends 'main/base.html' %}
+
+{% block title %}
+Home
+{% endblock %}
+
+{% block content %}
+<h1>Hello World!</h1>
+    <p> Username: {{request.user}}</p>
+    <p> Email: {{request.user.email}}</p>
+    {% for message in messages %}
+        <p id="messages">{{message}}</p>
+    {% endfor %}
+{% endblock %}
