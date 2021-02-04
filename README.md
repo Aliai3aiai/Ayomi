@@ -14,7 +14,7 @@ Featuring:
 
 ![Alt text](https://github.com/Aliai3aiai/Ayomi/blob/main/register.png?raw=true)
 
-After successfully register, user will be redirected to the Login Page
+After successfully registering, user will be redirected to the Login Page
 
 3. Home Page after login
 
@@ -26,7 +26,7 @@ User can see their username and email on the body, also on the navibar
 
 ![Alt text](https://github.com/Aliai3aiai/Ayomi/blob/main/editprofile.png?raw=true)
 
-After updating user email, user will be redirected to the home page with a message of sucessfully update
+After updating user email, user will be redirected to the home page with a message of successful update
 
 5. Redirected Homepage
 
